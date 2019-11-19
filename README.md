@@ -67,5 +67,5 @@
 **HOST:**
 > Version controlling by - GitLab
 
-> Live in - [Child Sponsorship System](https://sac.jaago.com.bd)
+> Live in - [Child Sponsorship System](https://sac.jaago.com.bd) (Now it's on testing, somewhere else.)
 
